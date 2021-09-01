@@ -8,4 +8,4 @@
     ansible.builtin.service:
        name:  httpd
        state: started
-       become: yes
+    become: yes
